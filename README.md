@@ -20,5 +20,6 @@ El manual técnico realizado para esta aplicación, tiene como finalidad present
 Este documento es una Especificación de Requisitos Software (ERS) para la librería llamada “Sallfus”. Esta especificación se ha estructurado basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998. Este documento se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/sallfus/blob/master/documentation/IEEE-830Sallfus.pdf
 
 ## Video Tutorial
-Con el fin de presentar detalladamente el funcionamiento de la librería, se realizó un video tutorial donde se presenta la interacción entre el usuario y cada una de las funciones que pertencen a esta. El video tutorial se encuentra disponible en la siguiente dirección: https://youtu.be/7o2uVmOn4uk
+Con el fin de presentar detalladamente el funcionamiento de la librería, se realizó un video tutorial donde se presenta la interacción entre el usuario y cada una de las funciones que pertencen a esta. El video tutorial se encuentra disponible en la siguiente dirección: https://youtu.be/ke67qR_qdpQ
+
 
